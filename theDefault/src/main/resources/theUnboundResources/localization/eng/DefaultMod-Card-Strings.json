@@ -1,0 +1,53 @@
+{
+  "theUnbound:DefaultCommonAttack": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! Damage. NL [#0000ff]This[] [#ff0000]Is[] [#ffff00]How[] [#88888]color[] [#ff00ff]works.[]"
+  },
+  "theUnbound:DefaultCommonSkill": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block. NL theUnbound:Multiword_Keyword. theunbound:Wood theunbound:Earth theunbound:Metal theunbound:Water theunbound:Fire theunbound:Enlightened theunbound:Corrupt"
+  },
+  "theUnbound:DefaultCommonPower": {
+    "NAME": "Hold Place",
+    "DESCRIPTION": "Gain !M! theUnbound:Keyword.",
+    "UPGRADE_DESCRIPTION": "Gain !M! theUnbound:Keywords."
+  },
+  "theUnbound:DefaultUncommonAttack": {
+    "NAME": "Big slap",
+    "DESCRIPTION": "Deal !D! Damage. [#117d0b]Wood.[] [#8c140f]Fire.[] [#916d10]Earth.[] [#4a6b6a]Metal.[] [#0f6299]Water.[] [#43f0e4]Enlightened.[] [#7d0f99]Corrupt.[]"
+  },
+  "theUnbound:DefaultUncommonSkill": {
+    "NAME": "A Better Defend",
+    "DESCRIPTION": "Gain !B! Plated Armor. Affected by Dexterity."
+  },
+  "theUnbound:DefaultUncommonPower": {
+    "NAME": "Weirdness",
+    "DESCRIPTION": "Gain X theUnbound:Keywords.",
+    "UPGRADE_DESCRIPTION": "Gain X +1 theUnbound:Keywords."
+  },
+  "theUnbound:DefaultRareAttack": {
+    "NAME": "TOUCH",
+    "DESCRIPTION": "Deal !D! Damage."
+  },
+  "theUnbound:DefaultRareSkill": {
+    "NAME": "For Each Loop x2",
+    "DESCRIPTION": "Apply !M! vulnerable to all enemies, 2 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! vulnerable to all enemies, 3 times."
+  },
+  "theUnbound:DefaultRarePower": {
+    "NAME": "In-Progress Form",
+    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  },
+  "theUnbound:DefaultAttackWithVariable": {
+    "NAME": "Special Strike",
+    "DESCRIPTION": "Deal !D! Damage [E] times. NL (Deal !theUnbound:ENERGY_DAMAGE! damage total.)"
+  },
+  "theUnbound:DefaultSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! vulnerable and !theUnbound:SecondMagic! poison to an enemy."
+  },
+  "theUnbound:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Default Orb."
+  }
+}

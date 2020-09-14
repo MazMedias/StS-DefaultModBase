@@ -1,0 +1,62 @@
+[
+  {
+    "PROPER_NAME":"Multiword Keyword",
+    "NAMES":[
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION":"Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  },
+  {
+    "PROPER_NAME":"Wood",
+    "NAMES":[
+      "wood"
+    ],
+    "DESCRIPTION":"Attune yourself to the Wood Element, empowering your next Fire card."
+  },
+  {
+    "PROPER_NAME":"Fire",
+    "NAMES":[
+      "fire"
+    ],
+    "DESCRIPTION":"Attune yourself to the Fire Element, empowering your next Earth card."
+  },
+  {
+    "PROPER_NAME":"Earth",
+    "NAMES":[
+      "earth"
+    ],
+    "DESCRIPTION":"Attune yourself to the Earth Element, empowering your next Metal card."
+  },
+  {
+    "PROPER_NAME":"Metal",
+    "NAMES":[
+      "metal"
+    ],
+    "DESCRIPTION":"Attune yourself to the Metal Element, empowering your next Water card."
+  },
+  {
+    "PROPER_NAME":"Water",
+    "NAMES":[
+      "water"
+    ],
+    "DESCRIPTION":"Attune yourself to the Water Element, empowering your next Wood card."
+  },
+  {
+    "PROPER_NAME":"Corrupt",
+    "NAMES":[
+      "corrupt"
+    ],
+    "DESCRIPTION":"Each stack deals 1 damage to you at the beginning of each of your turns."
+  },
+  {
+    "PROPER_NAME":"Enlightened",
+    "NAMES":[
+      "enlightened"
+    ],
+    "DESCRIPTION":"Transcend the Five-Element Wheel, empowering your next card of any Element."
+  }
+]
