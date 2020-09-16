@@ -14,7 +14,7 @@
   },
   "theUnbound:DefaultUncommonAttack": {
     "NAME": "Big slap",
-    "DESCRIPTION": "Deal !D! Damage. [#117d0b]Wood.[] [#8c140f]Fire.[] [#916d10]Earth.[] [#4a6b6a]Metal.[] [#0f6299]Water.[] [#43f0e4]Enlightened.[] [#7d0f99]Corrupt.[]"
+    "DESCRIPTION": "Deal !D! Damage. [#117d0b]theunbound:Wood[] [#8c140f]theunbound:Fire[] [#916d10]theunbound:Earth[] [#4a6b6a]theunbound:Metal[] [#0f6299]theunbound:Water[] [#43f0e4]theunbound:Enlightened[] [#7d0f99]theunbound:Corrupt[]"
   },
   "theUnbound:DefaultUncommonSkill": {
     "NAME": "A Better Defend",
@@ -49,5 +49,17 @@
   "theUnbound:OrbSkill": {
     "NAME": "Get Orb",
     "DESCRIPTION": "Channel 1 Default Orb."
+  },
+  "theUnbound:BasicStrike": {
+    "NAME": "Blade Strike",
+    "DESCRIPTION": "Deal !D! Damage. theunbound:Fire."
+  },
+  "theUnbound:BasicDefend": {
+    "NAME": "Blade Parry",
+    "DESCRIPTION": "Gain !B! Block. theunbound:Earth."
+  },
+  "theUnbound:FocusOnBreath": {
+    "NAME": "Focus On Breath",
+    "DESCRIPTION": "Gain 1 theunbound:Enlightened. theunbound:Wood."
   }
 }
